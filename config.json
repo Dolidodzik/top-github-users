@@ -1,6 +1,6 @@
 {
   "devMode": "false",
   "locations":[
-    { "country":  "poland", "geoName": "Poland", "cities": ["Warsaw", "Kraków", "Wrocław", "Gdańsk", "Poznań", "Warszawa", "Rzeszów", "Gdynia", "Kielce", "Opole", "Rzeszow", "Katowice", "Lublin", "Olsztyn", "Radom"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg" },
+    { "country":  "poland", "geoName": "poland", "cities": ["warsaw", "kraków", "wrocław", "gdańsk", "poznań"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" },
   ]
 }
